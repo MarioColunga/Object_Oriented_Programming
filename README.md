@@ -3,7 +3,7 @@
 This is an application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Whith this app you will be able to generate a webpage that displays my team's basic info where you can have quick access to their emails and GitHub profiles. 
 
 ## Acceptance Criteria
-
+```md
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for my team members and their information
 THEN an HTML file is generated that displays a nicely formatted team roster based on user input
@@ -22,5 +22,5 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-
+```
 
